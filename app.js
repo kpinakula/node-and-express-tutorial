@@ -21,3 +21,4 @@ const items = [1, [2, [3, [4]]]];
 const flat_items = _.flattenDeep(items);
 
 console.log(flat_items);
+console.log('hello people');
